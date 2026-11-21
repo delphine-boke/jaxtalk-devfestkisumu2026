@@ -60,6 +60,8 @@ A protein-design company. A design is scored on several models at once (bind, so
 
 - Slides: https://docs.google.com/presentation/d/1at1DkbLNAXoNOUq0otpuFsw0_bFZczHODmpn8BIpRHs/edit?usp=sharing
 
+- Demo: https://drive.google.com/file/d/1Nv_h9srGcSt7jNi6ar-s_Cph2tdv_msc/view?usp=sharing
+
 - https://docs.jax.dev
 
 - https://docs.jaxstack.ai
