@@ -53,8 +53,8 @@ A protein-design company. A design is scored on several models at once (bind, so
 
 ## Files
 
-- `JAX_DevFest_Kisumu_2026.pptx` — the slide deck.
-- `jax-numpy-ends/jax_but_start_where_numpy_ends.ipynb` — the Kaggle notebook.
+- `DevFest Kisumu 2026 - JAX, but start where NumPy ends` — the slide deck.
+- `jax-notebook-demo-devfestksm2026.ipynb` — the Kaggle notebook.
 
 ## Links
 
